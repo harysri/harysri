@@ -78,6 +78,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-4F46E5?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
 ### 🧠 Concepts & Paradigms
