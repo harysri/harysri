@@ -112,7 +112,11 @@ me.say_hi()
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harysri&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph-harysri-820.vercel.app/graph?username=harysri&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true"
+    alt="harysri contribution graph"
+    width="100%"
+  />
 </div>
 
 ---
