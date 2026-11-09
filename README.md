@@ -133,8 +133,8 @@ me.say_hi()
 <div align="center">
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/> -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=a78bfa&fontAlignY=65&animation=twinkling" alt="Thanks for visiting" />
 <i>⭐ Star some repos if you find them useful — it means a lot! ⭐</i>
 
 </div>
